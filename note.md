@@ -19,4 +19,4 @@ ARBEJDET ER FÆRDIGT (TROR DU SELV)
 9. Den nye branch merges ind i Main
 4. Helt udkørt
 10. Controller informerer teamet om de nye ændringer,
-    og alle laver et Pull (på Main)
+    og alle laver et Pull (på Main)xd
