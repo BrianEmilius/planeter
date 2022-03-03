@@ -8,6 +8,7 @@
 6. Alle collaborators laver deres egne branches
     6a. Arbejd, arbejd
     42. Hold lidt fri.
+    43. Tag på arbejde igen.
     6b. Stage, Commit, (nogle gange Push)
 
 ARBEJDET ER FÆRDIGT (TROR DU SELV)
@@ -15,6 +16,7 @@ ARBEJDET ER FÆRDIGT (TROR DU SELV)
 7. Opret et Pull-Request (PR)
     7a. informér controller
     6c. Ikke helt.
+    5d. Nu er du klar.
 8. Pull-Request godkendes eller afvises
 9. Den nye branch merges ind i Main
 4. Helt udkørt
