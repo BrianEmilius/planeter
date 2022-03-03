@@ -37,7 +37,7 @@ Saturn er den sjette planet fra solen i vores solsystem. Det er den næststørst
 Uranus is the seventh planet from the Sun. Its name is a reference to the Greek god of the sky, Uranus, who, according to Greek mythology, was the great-grandfather of Ares (Mars), grandfather of Zeus (Jupiter) and father of Cronus (Saturn). It has the third-largest planetary radius and fourth-largest planetary mass in the Solar System. Uranus is similar in composition to Neptune, and both have bulk chemical compositions which differ from that of the larger gas giants Jupiter and Saturn. For this reason, scientists often classify Uranus and Neptune as "ice giants" to distinguish them from the other giant planets.
 
 ## Neptun
-Venus er planet. :o)
+Neptun er planet. :o)
 Feta ost er den bedste ost i hele verden!
 Hej
 Jens Hansen havde e bondegård
